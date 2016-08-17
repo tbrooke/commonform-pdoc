@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Common Form ◊(select 'h1 here)</title>
+    <link rel=stylesheet href=html5-doctor-reset-stylesheet.min.css>
+    <link rel=stylesheet href='//fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,800,900,500italic,400italic,100italic,900italic,300italic,700italic,800italic&amp;subset=latin,latin-ext'>
+    <script type="text/javascript">
+    function toggle_div(id) {
+        e = document.getElementById(id);
+        if (e.style.display == 'block') {
+            e.style.display = 'none';
+        } 
+        else if (e.style.display == 'none') {
+            e.style.display = 'block';
+        } 
+    }
+    </script>
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css"/>
+</head>
+    <body>
+      <div class="container">
+      ◊(->html #:tag 'div #:attrs '((id "doc")) doc)
+      </div>
+</body>
