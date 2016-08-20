@@ -30,7 +30,7 @@ There is enough now to prove the concept, and for the technically astute to make
 
 @itemlist[
 
-@item{@bold{ASCII Text} Common Form is written with straight ASCII text. It is not s sepcial file as in Microsoft Word or Wordperfect. It is straight text and it can edited with any text editor. So to get started with Common Form you need to learn to use one of the basic text editors that are available for your platform. In an excellent article Sol Irvine describes; @hyperlink["https://medium.com/laws-of-the-digital-domain/a-modern-toolchain-for-contract-lawyers-fbd47bafe13d#.e1bo7ghic"]{"A Modern Toolchian for Contract Lawyers"}. }
+@item{@bold{ASCII Text} Common Form is written with straight ASCII text. It is not s sepcial file as in Microsoft Word or Wordperfect. It is straight text and it can edited with any text editor. So to get started with Common Form you need to learn to use one of the basic text editors that are available for your platform. In an excellent article Sol Irvine describes; @hyperlink["https://medium.com/laws-of-the-digital-domain/a-modern-toolchain-for-contract-lawyers-fbd47bafe13d#.e1bo7ghic"]{"A Modern Toolchain for Contract Lawyers"}. }
 
 @item{@bold{Command Line Interface} The command line is not where most lawyers feel at home on their computers. Of course coders and programmers constantly work from the command line but as a practicing lawyer it may be new territory for you. }
 
