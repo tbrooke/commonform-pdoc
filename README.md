@@ -3,7 +3,7 @@
 
 Common Form documentation is written with Pollen, a publishing language written with Racket and based on Scribble the Racket documentation language. Pollin was developed by Matthew Butterick as a book publishing system.
 
-The documentation is hosted on Github as a Github page. So to change or modify the documentation simply push you modification to the gh-pages branch. The pollen output is pure HTML easily hosted on a Github page.  
+The documentation is hosted on Github as a Github page. So to change or modify the documentation simply push your modification to the gh-pages branch. The pollen output is pure HTML easily hosted on a Github page.  
 
 
 ## Installation Instructions for Racket and Pollen
